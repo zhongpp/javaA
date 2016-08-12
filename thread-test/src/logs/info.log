@@ -1,0 +1,73 @@
+2016.05.19 09:24:22 org.jivesoftware.openfire.XMPPServer - Registering shutdown hook (standalone mode)
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Servers Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Components Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing Users Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing AnonymousUsers Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Routing User Sessions
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Roster
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Multicast Service
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Message Size
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for VCard
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Privacy Lists
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Clearspace SSO Nonce
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Offline Presence Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Last Activity Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for User
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Remote Users Existence
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Components Sessions
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Connection Managers Sessions
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Incoming Server Sessions
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Sessions by Hostname
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Validated Domains
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Client Session Info Cache
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Entity Capabilities Users
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Directed Presences
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created local-only cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for PEPServiceManager
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for File Transfer
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Published Items
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Features
+2016.05.19 09:24:24 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Disco Server Items
+2016.05.19 09:24:24 org.jivesoftware.openfire.pubsub.PubSubModule - 发布-订阅域：pubsub.10.32.243.3
+2016.05.19 09:24:24 org.jivesoftware.openfire.muc.spi.MultiUserChatServiceImpl - 多用户聊天域：conference.10.32.243.3
+2016.05.19 09:24:25 org.jivesoftware.openfire.XMPPServer - Openfire 3.10.2 [2016-5-19 9:24:25]
+2016.05.19 09:24:25 com.thinkive.openfire.listener.ApplicationListener - 监听程序开始启动
+2016.05.19 09:24:25 com.thinkive.openfire.listener.ApplicationListener - 网关监听开始启动
+2016.05.19 09:24:25 com.thinkive.openfire.listener.ApplicationListener - 定时扫描任务开始启动
+2016.05.19 09:24:25 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Misses
+2016.05.19 09:24:25 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Favicon Hits
+2016.05.19 09:24:25 org.jivesoftware.openfire.container.AdminConsolePlugin - 管理平台开始监听:
+  http://10.32.243.3:9090
+  https://10.32.243.3:9091
+2016.05.19 09:24:25 com.thinkive.openfire.plugin.ExpandPlugin - ExpandPlugin插件初始化成功!
+2016.05.19 09:24:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 开始服务器（未加密）在套接字端口： 5269
+2016.05.19 09:24:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 开始多路复用器 (非加密) 连接端口: 5262
+2016.05.19 09:24:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 已在以下端口上启动普通（未加密）套接字：5222
+2016.05.19 09:24:25 org.jivesoftware.openfire.spi.ConnectionManagerImpl - 已在以下端口上启动 SSL（已加密）套接字：5223
+2016.05.19 09:24:25 org.jivesoftware.openfire.http.HttpBindManager - Installed response compression filter
+2016.05.19 09:24:25 org.jivesoftware.openfire.http.HttpBindManager - HTTP bind service started
+2016.05.19 09:24:25 org.jivesoftware.openfire.handler.IQAuthHandler - 001 123456 10.32.243.3
+2016.05.19 09:24:25 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Locked Out Accounts
+2016.05.19 09:24:26 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222开始
+2016.05.19 09:24:26 com.thinkive.openfire.client.BusClientService - 请求参数:{username=001, password=******, client_ip=10.32.243.3}
+2016.05.19 09:24:26 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222结束
+2016.05.19 09:24:26 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group
+2016.05.19 09:24:26 org.jivesoftware.util.cache.CacheFactory - Created cache [org.jivesoftware.util.cache.DefaultLocalCacheStrategy] for Group Metadata Cache
+2016.05.19 09:24:51 org.jivesoftware.openfire.handler.IQAuthHandler - liuchaobiao 123456 10.32.243.3
+2016.05.19 09:24:51 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222开始
+2016.05.19 09:24:51 com.thinkive.openfire.client.BusClientService - 请求参数:{username=liuchaobiao, password=******, client_ip=10.32.243.3}
+2016.05.19 09:24:51 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222结束
+2016.05.19 09:25:00 org.jivesoftware.openfire.sasl.SaslServerPlainImpl - 登录用户信息：wusqm,123456,10.0.34.183
+2016.05.19 09:25:00 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222开始
+2016.05.19 09:25:00 com.thinkive.openfire.client.BusClientService - 请求参数:{username=wusqm, password=******, client_ip=10.0.34.183}
+2016.05.19 09:25:00 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222结束
+2016.05.19 09:25:05 org.jivesoftware.openfire.sasl.SaslServerPlainImpl - 登录用户信息：cewcwecuskwmcewweu,123456,null
+2016.05.19 09:25:05 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003221开始
+2016.05.19 09:25:05 com.thinkive.openfire.client.BusClientService - 请求参数:{username=cewcwecuskwmcewweu}
+2016.05.19 09:25:05 com.thinkive.openfire.client.BusClientService - 返回结果:[{sessionkey=756e5dca77bb187a29e3b188a2193d2f6f654c6982b05dee475af469b6cf6113109f32f31da3f2eb09a30c62f65408ac}]
+2016.05.19 09:25:05 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003221结束
+2016.05.19 09:25:38 org.jivesoftware.openfire.sasl.SaslServerPlainImpl - 登录用户信息：gqwuwwcuskwmweqsek,123456,10.1.34.9
+2016.05.19 09:25:38 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222开始
+2016.05.19 09:25:38 com.thinkive.openfire.client.BusClientService - 请求参数:{username=gqwuwwcuskwmweqsek, password=******, client_ip=10.1.34.9}
+2016.05.19 09:25:38 com.thinkive.openfire.client.BusClientService - 调用messageBus功能号1003222结束
